@@ -7,31 +7,26 @@
 Hedge Fund Manager is an interactive web application that allows users to participate in simulated stock trading competitions within created leagues. Users can join or create leagues, manage portfolios, and trade various assets including stocks, currencies, commodities, and cryptocurrencies. The application offers a realistic trading environment with features like real-time market data and simulated market scenarios.
 
 ## Technologies Utilized
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=ffffff" alt="Django" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-React-20232a?style=flat&logo=React&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=323330" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=ffffff" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=ffffff" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=ffffff" alt="CSS3" />
 
-### Backend
-- **Django**: A high-level Python web framework that encourages rapid development and clean, pragmatic design. Used for server-side logic.
-- **Django REST Framework**: A powerful and flexible toolkit for building Web APIs in Django. Used for creating RESTful services.
-- **PostgreSQL**: An advanced open-source relational database. Used as the primary data storage solution.
-- **Python**: The primary programming language used for backend development.
+</p>
 
-### Frontend
-- **React**: A JavaScript library for building user interfaces, particularly single-page applications.
-- **Chart.js**: An open-source JavaScript library used to create interactive charts and graphs for displaying data.
-- **HTML/CSS**: Used for structuring and styling web pages.
+## Current Screenshots
+<img src="HFM1" width="128" height="164.8">
+<img src="HFM2" width="128" height="164.8">
+<img src="HFM3" width="128" height="164.8">
 
 ### Data and API Integration
 - **Financial Market Data API**: Used for fetching real-time financial data (to be integrated).
 - **Python Scripts**: Custom scripts for data handling, such as importing stock data and generating simulated market scenarios.
-
-### Deployment and Containerization
-- **Docker**: A platform used for developing, shipping, and running applications inside containers. Facilitates deployment on various environments, including local development setups.
-
-### Version Control
-- **Git**: Used for version control, allowing for efficient tracking of changes and collaboration.
-
-### Additional Tools and Libraries
-- Various Python libraries for tasks like data manipulation and API integration.
-- Frontend libraries and frameworks compatible with React for UI components.
 
 ## Application Features
 
