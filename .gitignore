@@ -3,6 +3,9 @@
 /client/node_modules
 /client/build/
 
+#Data
+/server/clean.csv
+
 # testing
 /coverage
 /client/src/components/ItemList.js
