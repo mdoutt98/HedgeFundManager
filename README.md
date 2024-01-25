@@ -20,9 +20,11 @@ Hedge Fund Manager is an interactive web application that allows users to partic
 </p>
 
 ## Current Screenshots
-<img src="HFM1" width="128" height="164.8">
-<img src="HFM2" width="128" height="164.8">
-<img src="HFM3" width="128" height="164.8">
+<div>
+<img src="HFM1.png" width="237" height="264.25">
+<img src="HFM2.png" width="237" height="264.25">
+<img src="HFM3.png" width="237" height="264.25">
+</div>
 
 ### Data and API Integration
 - **Financial Market Data API**: Used for fetching real-time financial data (to be integrated).
