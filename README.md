@@ -1,5 +1,5 @@
 # Hedge Fund Manager (HFM) Web Application
-<img src="https://github.com/mdoutt98/HFT/assets/101009895/916ef0b1-494c-4975-a28e-b857dca2bc12" width="60%">
+<img src="Logo.jpeg" width="50%">
 
 
 ## Overview
